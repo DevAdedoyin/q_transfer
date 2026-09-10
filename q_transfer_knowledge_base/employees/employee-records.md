@@ -4,13 +4,14 @@ Q-Transfer maintains employee records for employment administration and access m
 
 ## Synthetic Employee Records
 
-| Employee ID | Name | Department | Role | Branch | Status |
-|---|---|---|---|---|---|
-| EMP-1001 | Ada Mensah | Compliance | Compliance Analyst | Accra | Active |
-| EMP-1002 | Daniel Okoro | Engineering | Backend Engineer | Lagos | Active |
-| EMP-1003 | Miriam Cole | Operations | Operations Manager | London | Active |
-| EMP-1004 | Tunde Bello | Finance | Finance Analyst | Abuja | Active |
-| EMP-1005 | Sarah Kamau | Customer Support | Support Lead | Nairobi | Active |
+| Employee ID | Name         | Department       | Role               | Branch  | Status |
+| ----------- | ------------ | ---------------- | ------------------ | ------- | ------ |
+| EMP-1001    | Ada Mensah   | Compliance       | Compliance Analyst | Accra   | Active |
+| EMP-1002    | Daniel Okoro | Engineering      | Backend Engineer   | Lagos   | Active |
+| EMP-1003    | Miriam Cole  | Operations       | Operations Manager | London  | Active |
+| EMP-1004    | Tunde Bello  | Finance          | Finance Analyst    | Abuja   | Active |
+| EMP-1005    | Sarah Kamau  | Customer Support | Support Lead       | Nairobi | Active |
+| EMP-1006    | Bello Tunde  | Engineering      | Frontend Engineer  | Abuja   | Active |
 
 These records are fictional and contain no real employee information.
 
